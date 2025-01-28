@@ -1,0 +1,7 @@
+| Volunteer Groups                                                                             |                                                                                                               |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| OMSI                                                                                         |                                                                                                               |
+| BikeFarm / any of the bicycle co-operatives                                                  |                                                                                                               |
+| [SOLVE](https://www.solveoregon.org/)                                                        | Make friends by picking up trash and clean up neglected beautiful places!                                     |
+| Free Geek Portland                                                                           |                                                                                                               |
+| [VolunteerMatch](https://www.volunteermatch.org/search/?l=Portland,%20OR,%20USA) in Portland | Find a cause you care about or a skill you want to share with those in need. (Lots of filters, lots of need!) |
