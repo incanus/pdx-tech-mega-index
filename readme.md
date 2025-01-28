@@ -2,7 +2,7 @@
 
 ## Maintainers
 
-- [skylab.portland.or.us](skylab.portland.or.us)
+- [skylab.portland.or.us](https://skylab.portland.or.us)
 - [@incanus](https://github.com/incanus)
 
 ## Categories
